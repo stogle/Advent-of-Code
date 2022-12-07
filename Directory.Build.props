@@ -1,0 +1,7 @@
+<Project>
+	<PropertyGroup>
+		<AnalysisLevel>latest-Recommended</AnalysisLevel>
+		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+		<TreatWarningsAsErrors>True</TreatWarningsAsErrors>
+	</PropertyGroup>
+</Project>
